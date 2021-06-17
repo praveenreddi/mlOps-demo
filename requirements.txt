@@ -2,3 +2,4 @@ dvc
 dvc[gdrive]
 pytest
 tox
+flake8
